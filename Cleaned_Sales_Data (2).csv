@@ -1,0 +1,21 @@
+Order ID,Date,Product,Category,City,Salesperson,Quantity,Unit Price,Total Sales
+ORD008,2026-09-08,Mouse,Accessories,Lusaka,Mary,10.0,180.0,1800.0
+ORD018,2026-09-18,Mouse,Accessories,Kitwe,Peter,12.0,180.0,2160.0
+ORD007,2026-09-07,Keyboard,Accessories,Kitwe,John,6.0,350.0,2100.0
+ORD017,2026-09-17,Keyboard,Accessories,Ndola,Mary,8.0,350.0,2800.0
+ORD010,2026-09-10,Headphones,Accessories,Kitwe,John,5.0,600.0,3000.0
+ORD020,2026-09-20,Headphones,Accessories,Ndola,Mary,6.0,600.0,3600.0
+ORD012,2026-09-12,Office Chair,Furniture,Kitwe,Peter,3.0,1200.0,3600.0
+ORD003,2026-09-03,Office Chair,Furniture,Lusaka,Peter,4.0,1200.0,4800.0
+ORD014,2026-09-14,Desk,Furniture,Lusaka,Mary,2.0,1800.0,3600.0
+ORD005,2026-09-05,Desk,Furniture,Ndola,Mary,3.0,1800.0,5400.0
+ORD016,2026-09-16,Monitor,Electronics,Kitwe,John,2.0,2200.0,4400.0
+ORD006,2026-09-06,Monitor,Electronics,Lusaka,Peter,5.0,2200.0,11000.0
+ORD004,2026-09-04,Printer,Electronics,Kitwe,John,2.0,2500.0,5000.0
+ORD015,2026-09-15,Printer,Electronics,Ndola,Peter,3.0,2500.0,7500.0
+ORD001,2026-09-01,Laptop,Electronics,Lusaka,John,2.0,3200.0,6400.0
+ORD002,2026-09-02,Phone,Electronics,Ndola,Mary,3.0,3200.0,9600.0
+ORD013,2026-09-13,Phone,Electronics,Lusaka,John,4.0,3200.0,12800.0
+ORD009,2026-09-09,Tablet,Electronics,Ndola,Peter,2.0,4500.0,9000.0
+ORD019,2026-09-19,Tablet,Electronics,Lusaka,John,3.0,4500.0,13500.0
+ORD011,2026-09-11,Laptop,Electronics,Ndola,Mary,1.0,8500.0,8500.0
